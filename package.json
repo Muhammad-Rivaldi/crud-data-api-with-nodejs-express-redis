@@ -1,0 +1,18 @@
+{
+  "name": "belajar-nodejs-api-redis",
+  "version": "1.0.0",
+  "description": "belajar API with redis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "rivaldi",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.5",
+    "redis": "^3.0.2"
+  }
+}
